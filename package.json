@@ -1,0 +1,23 @@
+{
+  "name": "ps1hobot",
+  "version": "1.0.0",
+  "description": "Bot for Ps1honya server",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddevmark/ps1hobot.git"
+  },
+  "author": "Surnot & Kaylee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddevmark/ps1hobot/issues"
+  },
+  "homepage": "https://github.com/ddevmark/ps1hobot#readme"
+}
