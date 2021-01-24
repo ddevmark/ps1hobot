@@ -22,7 +22,7 @@ bot.on("message", async message =>{
     }
 
     if(cmd === `${prefix}Марк`){
-        return message.channel.send("Дебил!");
+        return message.channel.send("Сука играется с командами!");
     }
 });
 
